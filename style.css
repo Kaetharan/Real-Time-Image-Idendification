@@ -1,0 +1,36 @@
+.heading{
+    font-size: 22px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 10px 10px 10px orange;
+}
+.heading_div{
+    background-color: wheat;
+    float: none;
+    padding: 10px;
+    border-radius: 12px;
+    color: black;
+    box-shadow: 10px 10px 10px orangered;
+}
+.heading_div2{
+font-size: 18px;
+}
+.result_tag{
+    font-size: 20px;
+    box-shadow: 10px 10px 10px orangered;
+    border-radius: 20px;
+}
+.footer{
+    bottom: 0;
+    position: fixed;
+    text-align: center;
+    background-color:orange;
+    color: blue;
+    width: 100%;
+    line-height: 3;
+}
+canvas{
+   border: 5px solid orange;
+   border-radius: 20px;
+   margin-top: 115px;
+}
